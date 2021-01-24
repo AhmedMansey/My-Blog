@@ -1,4 +1,4 @@
-# Landing Page Project
+# My Blog Project
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Year of Birth: 1993
 
 * Files structure should be as it is.
 
-* The "Landing-page" folder contains:
+* The "My Blog" folder contains:
   1 - "css" folder which has the "styles.css" file.
   2 - "js" folder which has the "app.js" file.
   3 - "index.html" file.
